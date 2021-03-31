@@ -16,6 +16,7 @@ function preload(){
   jwelleryImg = loadImage("jwell.png");
   swordImg = loadImage("sword.png");
   gameover_img = loadImage("gameOver.png");
+  //i made the changes
 }
 
 function setup(){
